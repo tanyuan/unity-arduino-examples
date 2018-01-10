@@ -1,6 +1,10 @@
 Unity & Arduino Examples
 =====
 
+First of all, turn on Unity support for Serial Port:
+
+Menubar → Edit → Project Settings → Player → Inside “Inspector” window on the right → In “Settings for PC, Mac & Linux standalone” tab → Under “Configuration” → Change “Api Compatibility Level” from “.NET 2.0 Subset” to “.NET 2.0”
+
 Unity reads from Arduino sensors
 -----
 
